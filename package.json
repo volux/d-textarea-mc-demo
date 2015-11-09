@@ -25,12 +25,12 @@
   },
   "homepage": "http://d-textarea-mc.heroku.com",
   "dependencies": {
+    "d-textarea-mc": "github:volux/d-textarea-mc",
     "derby": "0.6.0-alpha62",
+    "derby-debug": "^0.1.0",
+    "derby-jade": "^0.6.19",
     "derby-starter": "^0.2.11",
     "derby-stylus": "~0.1.0",
-    "derby-jade": "^0.6.19",
-    "express": "~3.18.0",
-    "derby-debug": "^0.1.0",
-    "d-textarea-mc": "volux/d-textarea-mc"
+    "express": "~3.18.0"
   }
 }
