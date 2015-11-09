@@ -1,0 +1,36 @@
+{
+  "name": "d-textarea-mc-demo",
+  "version": "0.1.0",
+  "description": "Demo site for d-textarea-mc",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/volux/d-textarea-mc-demo.git"
+  },
+  "keywords": [
+    "derby",
+    "derbyjs",
+    "multicursor",
+    "textarea",
+    "component"
+  ],
+  "author": "Andrey Skulov <andrey.skulov@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/volux/d-textarea-mc-demo/issues"
+  },
+  "homepage": "http://d-textarea-mc.heroku.com",
+  "dependencies": {
+    "derby": "0.6.0-alpha62",
+    "derby-starter": "^0.2.11",
+    "derby-stylus": "~0.1.0",
+    "derby-jade": "^0.6.19",
+    "express": "~3.18.0",
+    "derby-debug": "^0.1.0",
+    "d-textarea-mc": "volux/d-textarea-mc"
+  }
+}
