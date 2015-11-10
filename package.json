@@ -1,6 +1,6 @@
 {
   "name": "d-textarea-mc-demo",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Demo site for d-textarea-mc",
   "main": "server.js",
   "scripts": {
@@ -26,11 +26,6 @@
   "homepage": "http://d-textarea-mc.heroku.com",
   "dependencies": {
     "d-textarea-mc": "github:volux/d-textarea-mc",
-    "derby": "0.6.0-alpha62",
-    "derby-debug": "^0.1.0",
-    "derby-jade": "^0.6.19",
-    "derby-starter": "^0.2.11",
-    "derby-stylus": "~0.1.0",
-    "express": "~3.18.0"
+    "derby-example-server": "github:volux/derby-example-server"
   }
 }
