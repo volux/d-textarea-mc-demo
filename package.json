@@ -1,6 +1,6 @@
 {
   "name": "d-textarea-mc-demo",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Demo site for d-textarea-mc",
   "main": "server.js",
   "scripts": {
