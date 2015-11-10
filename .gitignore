@@ -1,1 +1,4 @@
 public/derby
+.DS_Store
+node_modules
+.idea
