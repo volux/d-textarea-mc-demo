@@ -23,7 +23,7 @@
   "bugs": {
     "url": "https://github.com/volux/d-textarea-mc-demo/issues"
   },
-  "homepage": "http://d-textarea-mc.heroku.com",
+  "homepage": "https://github.com/volux/d-textarea-mc-demo#readme",
   "dependencies": {
     "d-textarea-mc": "github:volux/d-textarea-mc",
     "derby-example-server": "github:volux/derby-example-server"
